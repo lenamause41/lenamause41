@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lena Mause 👋
 
-<!--
-**lenamause41/lenamause41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+I specialize in developing software for parsing and analyzing news that impacts the cryptocurrency market. My work focuses on extracting real-time insights from global information streams to support smarter trading and decision-making.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- Build high-performance news parsers and aggregators  
+- Develop NLP pipelines for sentiment analysis in crypto-related content  
+- Design systems for real-time monitoring of market-moving events  
+- Work with APIs, scraping tools, and data pipelines  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, JavaScript  
+- **Tools:** Scrapy, BeautifulSoup, Selenium  
+- **Data:** Pandas, NumPy  
+- **Other:** REST APIs, WebSockets, Docker  
+
+### 📈 Interests
+- Crypto market analytics  
+- Automated trading signals  
+- Machine learning for financial prediction  
+- Open-source intelligence (OSINT)  
+
+### 📫 Contact
+Feel free to reach out for collaboration or discussion!
